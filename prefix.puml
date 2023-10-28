@@ -1,0 +1,11 @@
+@startmindmap
+* Риск:ИЛИ
+    * PR1-:ИЛИ
+        * 1-odin:1
+        * 1-dva:2
+        * 1-tree:3
+    * PR2-:ИЛИ
+        * 2-odin:1
+        * 2-dva:2
+        * 2-tree:3
+@endmindmap
